@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">FBLoginWanWaiHoe</string>
+    <string name="facebook_app_id">304991714157971</string>
+    <string name="fb_login_protocol_scheme">fb304991714157971</string>
+    <string name="burger">Burger</string>
+    <string name="Minus">-</string>
+    <string name="quantity">Quantity :</string>
+    <string name="quantityBurger">0</string>
+    <string name="plus">+</string>
+    <string name="icecream">Ice Cream</string>
+    <string name="pizza">Pizza</string>
+    <string name="quantityIcecream">0</string>
+    <string name="quantityPizza">0</string>
+    <string name="potato">Potato Chips</string>
+    <string name="quantityPotato">0</string>
+    <string name="priceBurger">RM 10</string>
+    <string name="priceIcecream">RM 8</string>
+    <string name="pricePizza">RM 20</string>
+    <string name="pricePotato">RM 5</string>
+    <string name="fries">Fries</string>
+    <string name="priceFries">RM 5</string>
+    <string name="quantityFries">0</string>
+    <string name="next">Next</string>
+    <string name="total">Total: </string>
+    <string name="coke">Coke</string>
+    <string name="priceCoke">RM 3</string>
+    <string name="sevenUp">Seven UP (7UP)</string>
+    <string name="pepsi">Pepsi</string>
+    <string name="pricePepsi">RM 3</string>
+    <string name="priceSevenUP">RM 3</string>
+    <string name="milo">Milo</string>
+    <string name="priceMilo">RM 3</string>
+    <string name="orange_juice">Orange Juice</string>
+    <string name="priceOrangeJuice">RM 5</string>
+    <string name="checkOut">Check Out</string>
+    <string name="discount_coupon">Discount Coupon (-15%)</string>
+    <string name="picking_way">Picking Way</string>
+    <string name="carry_out">Carry Out</string>
+    <string name="delivery">Delivery (+ RM 3)</string>
+    <string name="state">State</string>
+    <string name="payment">Payment</string>
+    <string name="pay">Pay</string>
+    <string name="change">Change</string>
+    <string name="contact">Contact : 011 451 4810</string>
+    <string name="email">Email: Yajuu@yahoo.com</string>
+    <string name="message">Contact us if got anything we can help you</string>
+    <string name="login">Login Here with your facebook account</string>
+    <string name="about">About</string>
+    <string name="login_Menu">Login</string>
+    <string name="logout">Logout</string>>
+
+
+    <string name="channel_name">Noti 1</string>
+    <string name="channel_description">This is Notification 1</string>>
+
+    <string name="channe2_name">Noti 2</string>
+    <string name="channe2_description">This is Notification 2</string>
+
+</resources>

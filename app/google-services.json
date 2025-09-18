@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "811778660432",
+    "firebase_url": "https://test-ba48b.firebaseio.com",
+    "project_id": "test-ba48b",
+    "storage_bucket": "test-ba48b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811778660432:android:113fe924cc08927485d955",
+        "android_client_info": {
+          "package_name": "com.example.fbloginwanwaihoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811778660432-mr0585ikg3qdipsv5c6ltffikqjrn2mu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fbloginwanwaihoe",
+            "certificate_hash": "0f29370c3718e78ef80d3cb988e3548d4878d587"
+          }
+        },
+        {
+          "client_id": "811778660432-pnlslvnfp9p34bkkq8cma1mt6fdhdn5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKMndB5bhL8Gj6DTK0nprXM6jzimrR5-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811778660432-pnlslvnfp9p34bkkq8cma1mt6fdhdn5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
